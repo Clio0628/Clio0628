@@ -31,5 +31,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](www.linkedin.com/in/hao-chen-483b90189)
-[![Gmail](clio160628@gmail.com)
 
